@@ -18,6 +18,10 @@ What was this developed with and how do you install it?
     Within the develop folder you will find an Assets folder and the html file 
     Within assets you should find some images as well as the CSS stylesheet. 
 
+    The website should look like this: 
+    ![screenshot of website](./assets/images/ScreenShot.png)
+
+
 
 What was done within this project? 
     I refactored the code and style elements to be more streamlined and less repetitive. 
