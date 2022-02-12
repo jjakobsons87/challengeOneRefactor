@@ -21,7 +21,7 @@ What was this developed with and how do you install it?
    
    
  The website should look like this: 
-  ![screenshot of website]./assets/images/ScreenShot.png
+  ![screenshot of website](./assets/images/ScreenShot.png)
 
 
 
